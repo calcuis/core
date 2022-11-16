@@ -1,3 +1,3 @@
 # core
 pure JavaScript plotly core
-(localhost/nodejs)
+(run on localhost/nodejs)
